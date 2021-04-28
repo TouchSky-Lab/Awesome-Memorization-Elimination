@@ -16,7 +16,12 @@ Memorization Elimination, Machine Unlearning, Forgetten Learning
 
 
 # Machine Unlearning
-- 
+- Towards making systems forget with machine unlearning. S&P, 2015.
+- Machine unlearning. 2019
+- Machine unlearning: Linear filtration for logit-based classifiers. 2020
+- Towards Probabilistic Verification of Machine Unlearning. 2020
+- When Machine Unlearning Jeopardizes Privacy. 2020
+- Incremental and decremental support vector machine learning. 2000
 
 
 
