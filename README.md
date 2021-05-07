@@ -6,8 +6,8 @@
 - Forgetting Outside the Box: Scrubbing Deep Networks of Information Accessible from Input-Output Observations [[paper](https://arxiv.org/abs/2003.02960)][[code](https://github.com/AdityaGolatkar/SelectiveForgetting)]
 
 # Memorization Elimination in Machine Learning
-- Making AI Forget You: Data Deletion in Machine Learning. NeurIPS, 2019. 
-
+- Making AI Forget You: Data Deletion in Machine Learning. NeurIPS, 2019. [[paper](https://arxiv.org/abs/1907.05012)][[code](https://github.com/tginart/deletion-efficient-kmeans)]
+- 
 
 # Machine Unlearning
 - Towards making systems forget with machine unlearning. S&P, 2015.
