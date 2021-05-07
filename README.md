@@ -8,10 +8,11 @@
 # Data Deletion Efficiency in Machine Learning
 - Making AI Forget You: Data Deletion in Machine Learning. NeurIPS, 2019. [[paper](https://arxiv.org/abs/1907.05012)][[code](https://github.com/tginart/deletion-efficient-kmeans)]
 - Data Shapley: Equitable Valuation of Data for Machine Learning [[paper](https://arxiv.org/abs/1904.02868)]
+- SISA: Machine unlearning. 2019
+
 
 # Machine Unlearning
 - Towards making systems forget with machine unlearning. S&P, 2015.
-- Machine unlearning. 2019
 - Machine unlearning: Linear filtration for logit-based classifiers. 2020
 - Towards Probabilistic Verification of Machine Unlearning. 2020
 - When Machine Unlearning Jeopardizes Privacy. 2020
